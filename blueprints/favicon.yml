@@ -1,0 +1,5 @@
+type: group
+fields:
+  favicon:
+    label: Favicon
+    type: image
